@@ -35,13 +35,13 @@ experience:
   description: Making coffee and baking cookies.
 
 education:
-- degree: Master of Arts
-  timeperiod: March 2012 - December 2013
-  description: Major in Hacking and Computer Penetration, University A, New York, USA.
+- degree: Master of Computer Science
+  timeperiod: Sep 2012 - December 2013
+  description: Major in Computer Science, The Univeersity of Hong Kong
   website: https://example.com
 
-- degree: Bachelor of Science
-  timeperiod: March 2009 - December 2011
+- degree: Bachelor of Software Engineering
+  timeperiod: Sep 2002 - July 2006, Shanghai Jiao Tong University
   description: Major in Engineering, University B, Los Angeles, USA.
 
 # skill level goes 0 to 100
