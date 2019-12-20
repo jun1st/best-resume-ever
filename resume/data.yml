@@ -16,82 +16,96 @@ experience:
 - company: Mary Kay China
   position: Senior Technical Manager
   timeperiod: since January 2019
-  description: Programming and watching cute cat videos.
+  description: Manage the mobile development team of Mary Kay Asia Pacific.  Delivered MaryKay Intouch app, Selling Tools app
+        And VMO (Virtual Make Over) app to China and other asia business region.  Build cloud native systems on AWS platform.
   website: https://www.marykay.com.cn
 
 - company: Mary Kay China
   position: Technical Manager
   timeperiod: July 2017 - December 2018
-  description: Fulfillment of extremely important tasks.
+  description: Manage the MyBiz tech team, transfer the whole tech stack from Microsoft .Net to Java. Renovate the mobile
+              development platform from native and Lua to Native plus react native. Build the first micro service system
+              inside Mary Kay China.
+  website: https://www.marykay.com.cn
 
 - company: Jiandanxinli
-  position: Technical Leader
-  timeperiod: March 2015 - December 2017
-  description: Making coffee and baking cookies.
+  position: Fullstack Developer
+  timeperiod: Dec 2015 - July 2017
+  description: Jiandanxinli is a small startup company, I joined the tech team as No.3 engineer. During my one and
+          a half year career, I rebuild the mobile app, transfer the app from a wrapper broswer to an hybrid app
+          with excellent user experience. Also build the first Wechat miniapp, during beta period of the mini app platform
 
 - company: Caiyang Info tech
   position: Technical Manager
   timeperiod: March 2013 - December 2015
-  description: Making coffee and baking cookies.
+  description: acting as the CTO
+
+- company: Mary Kay China
+  position: Software Enginner, Senior Engineer and Technical Consultant
+  timeperiod: Dec 2007 - December 2012
+  description: Serve as software enginner, senior enginner and technical consultant of the e-commerce team. develope
+      the first generation of the e-commerce site of MaryKay China.
+
+- company: BearingPoint(now PWC)
+  position: Software Enginner
+  timeperiod: July 2006 - Nov 2007
+  description: memeber of the solution team.
 
 education:
 - degree: Master of Computer Science
   timeperiod: Sep 2012 - December 2013
   description: Major in Computer Science, The Univeersity of Hong Kong
-  website: https://example.com
 
 - degree: Bachelor of Software Engineering
-  timeperiod: Sep 2002 - July 2006, Shanghai Jiao Tong University
-  description: Major in Engineering, University B, Los Angeles, USA.
+  timeperiod: Sep 2002 - July 2006
+  description: Major in Software Engineering, Shanghai Jiao Tong University
 
 # skill level goes 0 to 100
 skills:
-- name: HTML5
-  level: 99
-- name: CSS3
-  level: 95
-- name: JavaScript
-  level: 97
-- name: Node.js
-  level: 93
-- name: Angular 2
-  level: 60
-- name: TypeScript
+- name: Agile
+  level: 75
+- name: Java
+  level: 75
+- name: Spring
+  level: 76
+- name: Spring Boot
+  level: 76
+- name: SQL
   level: 80
-- name: ES.Next
+- name: Redis
   level: 70
-- name: Docker
-  level: 99
-knowledge: Also proficient in Adobe Photoshop and Illustrator, grew up bilingual
-  (English and Klingon).
-
-projects:
-- name: best-resume-ever
-  platform: Vue
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: Rabbit MQ
+  level: 70
+- name: Kafka
+  level: 70
+- name: AWS
+  level: 70
+knowledge: Agile development, Devops, and people management
 
 hobbies:
-- name: Video Games
+- name: Digital Products
   iconClass: fa fa-gamepad
   url: https://example.com
 
-- name: Drawing
+- name: Gym
   iconClass: fa fa-pencil
   url: https://example.com
 
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
+- name: Game
+  iconClass: fa fa-pencil
+  url: https://example.com
+
+- name: Music & Movie
+  iconClass: fa fa-pencil
+  url: https://example.com
+
+
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: jun1st.feng@gmail.com
+  phone: 17721065522
+  city: shanghai
+  stackoverflow: jun1st
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
 lang: en
 `
